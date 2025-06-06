@@ -8,7 +8,7 @@ import { GamesComponent } from '../games/games.component';
   styleUrl: './user.component.css'
 })
 export class UserComponent {
-userName ='midudev';
+userName ='Juan';
 isLoggedId = true;
 greet(){
   alert('Hola !!!!')
